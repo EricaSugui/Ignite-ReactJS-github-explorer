@@ -6,7 +6,7 @@ Typescript, TSX
 CSS, Sass
 babel
 webpack
-React Hooks (useState, useEffect) .
+React Hooks (useState, useEffect)
 props
 types, interface
 
